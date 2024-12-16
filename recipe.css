@@ -1,0 +1,42 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe ol {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header, footer {
+    background-color:bisque;
+}
+
+section {
+    border: 5px solid black
+}
+
+body {
+    color: black;
+    background-color: burlywood;
+}
+
+#ingredients {
+    margin: 10px;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+button {
+    background-color: pink;
+}
+
+button:hover {
+    background-color: lightskyblue;
+}
+
